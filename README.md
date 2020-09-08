@@ -88,3 +88,5 @@ The repository available in GitHub is organized as follows.
   * "webapp" contains the WEB pages.
 
 To start the application is necessary to configure the database according to the “database” module (PostgreSQL or MongoDB). After the database was loaded, is necessary to configure the WEB app in Apache Tomcat and start the app. Finally, the application page to use the TODS is presented below.
+
+![WEB APP](WEB_app.png)
